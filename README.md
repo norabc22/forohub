@@ -53,6 +53,6 @@ Postman: https://www.postman.com
 Insomnia: https://insomnia.rest**
 ## Personas desarrolladoras del proyecto ✒️
 ## Autores
-| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>NoraBeatriz Cañete</sub>](https://github.com/camilafernanda) | 
+| [<img src="https://github.com/norabc22.png" width=115><br><sub>NoraBeatriz Cañete</sub>](https://github.com/norabc22) | 
 | :---: |
 
